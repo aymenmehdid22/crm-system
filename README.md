@@ -14,7 +14,7 @@ The project began on **August, 2025**, and has evolved significantly through con
 Your feedback, contributions, or suggestions are highly appreciated.
 
 <p align="center">
-  <img src="https://i.imgur.com/6LLw8MX.png">
+  <img src="./capture.png">
 </p>
 
 ---
@@ -45,4 +45,4 @@ Your feedback, contributions, or suggestions are highly appreciated.
 
 
 ```bash
-git clone https://github.com/KamilGrzechulski/SoftCRM.git
+git clone https://github.com/aymenmehdid22/crm-system.git
